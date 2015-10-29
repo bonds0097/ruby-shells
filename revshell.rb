@@ -4,9 +4,9 @@ require 'socket'
 require 'open3'
 
 #Set the Remote Host IP
-RHOST = "192.168.1.10" 
+RHOST = "scanner.vsecurity.org" 
 #Set the Remote Host Port
-PORT = "6667"
+PORT = "2471"
 
 #Tries to connect every 20 sec until it connects.
 begin
