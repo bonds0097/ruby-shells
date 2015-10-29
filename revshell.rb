@@ -4,7 +4,7 @@ require 'socket'
 require 'open3'
 
 #Set the Remote Host IP
-RHOST = "scanner.vsecurity.org" 
+RHOST = "scanner.vsecurity.com" 
 #Set the Remote Host Port
 PORT = "2471"
 
